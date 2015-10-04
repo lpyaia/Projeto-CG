@@ -1,0 +1,9 @@
+Npme do jogo: Não olhe para trás!
+História: Ed Warren é um caçador de fantasmas aposentado que se sentiu intrigado com um caso que está assombrando a cidade. Um prédio abandonado localizado no subúrbio de Raynham Hall está chamando a atenção das autoridades. Assombrações, gritos e mensagens obscuras são presenças constantes nesse prédio assombrado, que foi desativado. Ed Warren sente que pode ajudar a resolver os problemas nesse local, e decide deixar sua aposentadoria de lado. Porém, ele sabe que não será nada fácil. Ed Warren tem como missão encontrar a entidade que está causando todos esses problemas para que evitar com que todo o mal se espalhe por Raynham Hall.
+
+Observações: 
+- Jogo em primeira pessoa.
+- Não existirá armas. 
+- O personagem não irá carregar outros itens além de uma lanterna.
+- Não existirá confronto entre personagem e monstros.
+- O personagem deve conseguir abrir portas.
