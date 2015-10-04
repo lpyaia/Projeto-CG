@@ -7,3 +7,5 @@ Observações:
 - O personagem não irá carregar outros itens além de uma lanterna.
 - Não existirá confronto entre personagem e monstros.
 - O personagem deve conseguir abrir portas.
+
+Obs:
