@@ -15,7 +15,8 @@ int main(void)
    int i;
    char *s[] = 
    {
-      "Tutorials"
+      "Tutorials",
+      "Tutorials Pt-Br"
    };
 
    return 0;

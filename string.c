@@ -15,13 +15,13 @@ int main(void)
    int i;
    char *s[] = 
    {
-      "Git tutorials",
-      "Tutorials Point"
+      "Tutoriais Git",
+      "Ponto dos Tutoriais"
    };
 
    for (i = 0; i < 2; ++i)
       
-   printf("string lenght of %s = %d\n", s[i], my_strlen(s[i]));
+   printf("tamanho da string %s = %d\n", s[i], my_strlen(s[i]));
 
    return 0;
 }
